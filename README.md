@@ -25,4 +25,6 @@
 10. True
 
 # Part 3 - Version Control Using Git and Github
-
+- I was able to push all the scripts for different branches.
+- What I did was checkout of the branch im using then paste all the files for that branch
+- I repeated this process for all the branches
