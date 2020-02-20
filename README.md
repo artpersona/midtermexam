@@ -53,3 +53,6 @@ SELECT * FROM "perez_HR".employees WHERE salary > ALL(SELECT avg(salary) FROM "p
 SELECT COUNT(DISTINCT job_id)"Number of Jobs" from "perez_MidtermExam".employees;
 - 10
 SELECT  department_id "Department", AVG(salary)"Average Salary", COUNT(*) "No. of Employees" from "perez_MidtermExam".employees GROUP BY department_id HAVING department_id = 90;
+
+
+- my node js scripts are located in the hr branch of this repository
