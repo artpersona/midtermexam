@@ -1,0 +1,22 @@
+{
+  "name": "dev",
+  "version": "1.0.1",
+  "description": "My first node package",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "link-start": "how-to-npm",
+    "go": "how-to-npm verify",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "John Paul Perez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "asdasda"
+  }
+}
