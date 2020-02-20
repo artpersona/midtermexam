@@ -1,0 +1,19 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "link-start":"how-to-markdown",
+    "go":"how-to-markdown verify ex12.md",
+    "run":"how-to-markdown run ex12.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
