@@ -56,3 +56,8 @@ SELECT  department_id "Department", AVG(salary)"Average Salary", COUNT(*) "No. o
 
 
 - my node js scripts are located in the hr branch of this repository
+
+
+# User name and password
+user = johnpaulperez
+password = terrano123
